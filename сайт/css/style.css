@@ -1,0 +1,245 @@
+
+body {
+    font-family: Arial;
+}
+
+.gg {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #fff
+    
+}
+
+
+
+
+.vv {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #fff
+}
+
+.fon1 {
+    background: #fff;
+    width: 100%;
+    height: 150vh;
+}
+
+.div1 {
+    background: #fff;
+    width:100%;
+    height: 50px;  
+}
+
+.homa1 {
+    color: #000000;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s;
+    position: relative; 
+    top: 35px ;
+    left:500px ;
+}
+
+.homa2 {
+    color: #000000;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s;
+    position:relative; 
+    top:35px ;
+    left: 525px ;
+}
+
+.homa3 {
+    color: #000000;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s;
+    position: relative; 
+    top:35px ;
+    left:550px ;
+}
+
+
+.homa5 {
+    color: #000000;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s;
+    position: relative; 
+    top:35px ;
+    left:600px ;
+}
+
+
+
+.bb:hover {
+    color:#ea485b;
+    font-size: 1.5;
+    letter-spacing: 3px;
+    transition: 0.3s;
+} 
+.bb {
+    color: #000000
+}
+
+.hh {
+    color: rgba(109, 109, 109, 0.5);
+    padding-top: 80px; 
+    font-size: 42px;
+    animation-name: hh;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hh {
+    0%{
+       color: rgba(109, 109, 109, 0.5); 
+    }
+    25%{
+        color: #000000;
+    } 
+    50%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    75%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    100%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+}
+
+.hp {
+    color: rgba(109, 109, 109, 0.5);
+    padding-top: 25px;
+    font-size: 42px;
+     animation-name: hp;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hp {
+    0%{
+       color: rgba(109, 109, 109, 0.5); 
+    }
+    25%{   
+        color: rgba(109, 109, 109, 0.5);
+    } 
+    50%{
+        color: #000000;
+    }
+    75%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    100%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+}
+
+.hp2 {
+    color: rgba(109, 109, 109, 0.5);
+    padding-top: 25px;
+    font-size: 42px;
+     animation-name: hp2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hp2 {
+    0%{
+       color: rgba(109, 109, 109, 0.5); 
+    }
+    25%{
+        color: rgba(109, 109, 109, 0.5);
+    } 
+    50%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    75%{
+        color: #000000;
+    }
+    100%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+}
+
+.hp3{
+    color: rgba(109, 109, 109, 0.5);
+    padding-top: 25px;
+    font-size: 42px;
+     animation-name: hp3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hp3 {
+    0%{
+       color: rgba(109, 109, 109, 0.5); 
+    }
+    25%{
+         color: rgba(109, 109, 109, 0.5);
+    } 
+    50%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    75%{
+        color: rgba(109, 109, 109, 0.5);
+    }
+    100%{
+        color: rgb(0, 0, 0);
+    }
+}
+
+.nn {
+    font-size: 34px; 
+    padding-top: 15px; 
+    margin-left: 5%;
+    background-color: rgba(53, 148, 245, 0.89)
+}
+
+.ss {
+    margin-left: 15%; 
+}
+
+
+.zz {
+    margin-left: 75%;
+    margin-right: 25%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+
+
+
+
+.yy {
+    clip-path: polygon(30px 0%, 100% 0%, 100% 100%, 30px 100%, 0 50%);
+}
+
+
+
+.ll {
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.8);
+    border-radius: 50%;
+}
+
+
+.kk {
+    margin-left: 15%; 
+    margin-right: 17%;
+}
+
+
+.as {
+    margin-top: 5%;
+}
+
+
+.fg {
+    margin-left: 5%;
+    margin-right: 10%;
+}
